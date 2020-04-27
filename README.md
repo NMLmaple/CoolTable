@@ -1,2 +1,2 @@
 # CoolTable
-XI grade homework, secondary education. Link for the project: https://nmlmaple.github.io/
+XI grade homework, secondary education. Link to the project: https://nmlmaple.github.io/
